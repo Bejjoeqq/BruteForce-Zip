@@ -1,0 +1,12 @@
+D:\Bejjo\Tugas\Project\C#\BruteForceRar\BruteForceRar\bin\Debug\BruteForceRar.exe.config
+D:\Bejjo\Tugas\Project\C#\BruteForceRar\BruteForceRar\bin\Debug\BruteForceRar.exe
+D:\Bejjo\Tugas\Project\C#\BruteForceRar\BruteForceRar\bin\Debug\BruteForceRar.pdb
+D:\Bejjo\Tugas\Project\C#\BruteForceRar\BruteForceRar\bin\Debug\DotNetZip.dll
+D:\Bejjo\Tugas\Project\C#\BruteForceRar\BruteForceRar\bin\Debug\DotNetZip.pdb
+D:\Bejjo\Tugas\Project\C#\BruteForceRar\BruteForceRar\bin\Debug\DotNetZip.xml
+D:\Bejjo\Tugas\Project\C#\BruteForceRar\BruteForceRar\obj\Debug\BruteForceRar.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\C#\BruteForceRar\BruteForceRar\obj\Debug\BruteForceRar.Form1.resources
+D:\Bejjo\Tugas\Project\C#\BruteForceRar\BruteForceRar\obj\Debug\BruteForceRar.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\C#\BruteForceRar\BruteForceRar\obj\Debug\BruteForceRar.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\C#\BruteForceRar\BruteForceRar\obj\Debug\BruteForceRar.exe
+D:\Bejjo\Tugas\Project\C#\BruteForceRar\BruteForceRar\obj\Debug\BruteForceRar.pdb
