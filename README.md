@@ -66,7 +66,7 @@ Choose one of the following:
   3. Click **Go!**.
 
 - **Custom wordlist**
-  1. Click the `...` button next to **Custome :** and choose a `.txt` file.
+  1. Click the `...` button next to **Custom** (labeled **Custome :** in the current UI) and choose a `.txt` file.
   2. The app disables area/length settings and tests each line as a password.
   3. Click **Go!**.
 
